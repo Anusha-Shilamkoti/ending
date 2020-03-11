@@ -1,0 +1,5 @@
+package my.spring.project.Ipo.controller;
+
+public class IpoController {
+
+}

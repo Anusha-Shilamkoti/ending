@@ -1,0 +1,8 @@
+spring.jpa.hibernate.ddl-auto=update
+
+spring.datasource.url=jdbc:mysql://localhost:3306/STOCK_MARKET
+spring.datasource.username=root
+
+spring.datasource.password=root
+
+server.port=8015

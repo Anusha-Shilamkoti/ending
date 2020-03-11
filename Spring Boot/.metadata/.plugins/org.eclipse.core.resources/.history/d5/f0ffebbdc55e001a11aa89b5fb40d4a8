@@ -1,0 +1,5 @@
+package my.spring.project.StockExchange.dao;
+
+public interface StockExchangeRepository {
+
+}

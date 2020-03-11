@@ -1,0 +1,5 @@
+package my.spring.project.User.Email;
+
+public class EmailConfig {
+
+}

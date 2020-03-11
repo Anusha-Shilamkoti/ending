@@ -1,0 +1,5 @@
+package my.spring.project.Sectors.controller;
+
+public class SectorsController {
+
+}

@@ -1,0 +1,5 @@
+package my.spring.project.Ipo.dao;
+
+public interface IpoRepository {
+
+}

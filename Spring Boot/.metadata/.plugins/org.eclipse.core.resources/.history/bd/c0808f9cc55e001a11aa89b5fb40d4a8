@@ -1,0 +1,5 @@
+package my.spring.project.StockExchange.pojos;
+
+public class StockExchange {
+
+}

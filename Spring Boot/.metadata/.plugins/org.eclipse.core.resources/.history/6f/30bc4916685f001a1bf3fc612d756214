@@ -1,0 +1,34 @@
+package my.spring.project.StockPrice;
+
+public class ConnectionUtil {
+	
+	public class SeriesData
+	{
+		private String name;
+		private float array[]=new float[5];
+		public String getName() {
+			return name;
+		}
+		public void setName(String name) {
+			this.name = name;
+		}
+		public float[] getArray() {
+			return array;
+		}
+		public void setArray(float[] array) {
+			this.array = array;
+		}
+		
+		
+		
+		
+	}
+	
+	public String getData()
+	{
+		
+	}
+	
+	
+
+}

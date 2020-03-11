@@ -1,0 +1,5 @@
+package my.spring.project.StockPrice.controller;
+
+public class StockPriceController {
+
+}
